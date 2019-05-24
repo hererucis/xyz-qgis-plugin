@@ -1,6 +1,10 @@
 # Changelog 
 
-## version 1.6.1
+## version 1.6.2 (2019-05-27)
+
+* fix compatibility with older python 3, ver < 3.6
+
+## version 1.6.1 (2019-05-07)
 
 * fix several bugs in loading and uploading
     * unique field name (suffix ".number")
